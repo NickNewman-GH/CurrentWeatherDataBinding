@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">CurrentWeatherDataBinding</string>
+    <string name="api_key">d6843ab8ee963f5d372296dfff62aed7</string>
 </resources>
